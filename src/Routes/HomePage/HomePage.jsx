@@ -26,7 +26,7 @@ const HomePage = () => {
           <a href="/features" title className="text-base font-semibold text-black transition-all duration-200 hover:text-opacity-80"> Features </a>
           <a href="/solution" title className="text-base font-semibold text-black transition-all duration-200 hover:text-opacity-80"> Solutions </a>
           <a href="/resources" title className="text-base font-semibold text-black transition-all duration-200 hover:text-opacity-80"> Resources </a>
-          <a href="/pricing" title className="text-base font-semibold text-black transition-all duration-200 hover:text-opacity-80"> Pricing </a>
+          <a href="/pricing" title className="text-base font-semibold text-black transition-all duration-200 hover:text-opacity-80"> Sonu </a>
           <a href="/" title className="inline-flex items-center justify-center px-5 py-2.5 text-base font-semibold transition-all duration-200 rounded-full bg-orange-500 text-white hover:bg-orange-600 focus:bg-orange-600" role="button"> Try for free </a>
         </div>
       </div>
